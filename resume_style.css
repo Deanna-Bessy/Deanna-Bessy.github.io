@@ -26,3 +26,8 @@ date {
 ul { margin-left: 30px; }
 
 li > ul, { margin-bottom: 0; }
+
+
+a { color: #2a7ae2; text-decoration: underline; }
+a:visited { color: #00cc3e; }
+a:hover {font-style: italic;}
